@@ -6,7 +6,7 @@ import AuthRoutes from "./auth.routes";
 export default function Routes() {
   return (
     <BrowserRouter basename="/rocketnotes-ui">
-      {/* <AppRoutes /> */}
+      { /* <AppRoutes /> */ }
       <AuthRoutes />
     </BrowserRouter>
   );
