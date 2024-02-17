@@ -37,7 +37,6 @@ This project is hosted at Github Pages of this repository by the link <a href="h
 This project was developed with the following technologies:
 
 - React JS
-- Typescript
 - Styled Components
 - Git and Github
 - Figma
