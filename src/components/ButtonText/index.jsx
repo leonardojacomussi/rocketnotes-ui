@@ -5,7 +5,7 @@ const ButtonText = ({ children, isActive, ...props }) => {
   return (
     <Container
       type="button"
-      isActive={isActive}
+      $isActive={isActive}
       {...props}
     >
       {children}
