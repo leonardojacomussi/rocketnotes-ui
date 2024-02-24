@@ -33,7 +33,7 @@ export const Form = styled.form`
     color: ${props => props.theme.COLORS.GRAY_100};
   };
 
-  > a {
+  > button.back {
     margin-top: 12.4rem;
     color: ${props => props.theme.COLORS.ORANGE};
   };

@@ -23,10 +23,11 @@ export const Profile = styled(Link)`
   display: flex;
   align-items: center;
 
-  > img {
+  > img, svg {
     width: 5.6rem;
     height: 5.6rem;
     border-radius: 50%;
+    object-fit: cover;
   };
 
   > div {
